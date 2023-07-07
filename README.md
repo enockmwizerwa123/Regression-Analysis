@@ -13,7 +13,7 @@ Polynomial Regression:
 # Polynomial regression:
 Polynomial regression is an extension of simple linear regression that models the relationship between the independent variable (X) and the dependent variable (y) as an nth-degree polynomial.
 It allows for a nonlinear relationship between the variables.
-The model equation is of the form: $y = b0 + b1*X + b2*X^2 + ... + bn*X^n $, where n represents the degree of the polynomial.
+The model equation is of the form: $y = b0 + b1*X + b2*X^2 + ... + bn*X^n$, where n represents the degree of the polynomial.
 Polynomial regression can capture more complex patterns and relationships compared to simple linear regression.
 
 # Ridge Regression:
